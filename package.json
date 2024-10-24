@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "types": "./src/index.d.ts",
   "description": "Helpers library for Jobber app",
@@ -15,11 +15,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "nhkhangnek-jobberlib",
+  "name": "nhkhangnek-jobber_lib",
   "author": "nhkhangnek",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhkhangnek/jobber-lib.git"
+    "url": "git+https://github.com/nhkhangnek/jobber_lib.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
