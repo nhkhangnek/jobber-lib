@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "types": "./src/index.d.ts",
   "description": "Helpers library for Jobber app",
@@ -15,7 +15,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "nhkhangnek-jobber_lib",
+  "name": "@nhkhangnek/jobber_lib",
   "author": "nhkhangnek",
   "repository": {
     "type": "git",
